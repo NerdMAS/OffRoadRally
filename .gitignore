@@ -1,0 +1,27 @@
+# Unreal Engine build artifacts
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE / Editor files
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+.vscode/
+
+# Build outputs
+*.pdb
+*.exe
+*.dll
+*.app
+*.dylib
+
+# User-specific
+*.log
+*.user
+*.userprefs
+*.sdf
+*.ipr
+*.iws
